@@ -1,5 +1,40 @@
+p {
+	font-family: Helvetica;
+}
+
 .cover-heading, .masthead-brand {
 	font-family: 'Rokkitt', serif;
 	letter-spacing: 2px;
 	margin-top: 3px;
+}
+
+.container {
+	padding: 150px;
+}
+
+.phone, .box {
+	float: left;
+}
+
+.steps {
+	width: 30px;
+  height: 30px;
+  -moz-border-radius: 50%; 
+  -webkit-border-radius: 50%; 
+  border-radius: 50%;
+	background-color: #0D3F25;
+	border: 1px solid #fff;
+	padding: 4px 0 0 0;
+	margin: 10px 20px 0 0;
+}
+
+.masthead {
+	position: relative;
+	padding-bottom: 80px;
+}
+
+.explainer {
+	width: 20px;
+	text-align: right;
+	margin: 20px 0 0 0;
 }
