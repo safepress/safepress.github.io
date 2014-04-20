@@ -8,6 +8,11 @@ p {
 	margin-top: 3px;
 }
 
+h1.cover-heading {
+	margin-top: 8px;
+	font-size: 28px;
+}
+
 .container {
 	padding: 100px 150px 100px 150px;
 }
