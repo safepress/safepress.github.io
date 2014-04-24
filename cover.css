@@ -93,6 +93,10 @@ body {
   border-bottom-color: #fff;
 }
 
+#research > ul {
+  text-align: left;
+}
+
 @media (min-width: 768px) {
   .masthead-brand {
     float: left;
